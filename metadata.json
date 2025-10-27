@@ -1,0 +1,5 @@
+{
+  "name": "Excel Knowledge Graph Explorer",
+  "description": "An application to analyze Excel files, generate a knowledge graph with AI-powered descriptions, and explore it through an interactive grid, D3 visualization, and a Cypher/Natural Language query console.",
+  "requestFramePermissions": []
+}
